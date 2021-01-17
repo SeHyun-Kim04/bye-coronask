@@ -33,7 +33,7 @@ MIT동아리와 HNP동아리가 함께 만든 서비스로, 정부의 공적마�
 > * Email : lehyungju@gmail.com</br>
 
 > 박영민
-> * [[Git Hub]](https://github.com/Ppine) : ParkYoungMin</br>
+> * [[Git Hub]](https://github.com/Ppine) : Ppine</br>
 > * instagram : @parkyoungmin_pc</br>
 
 > 곽민준
