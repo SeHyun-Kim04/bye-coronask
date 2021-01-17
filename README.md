@@ -28,12 +28,12 @@ MIT동아리와 HNP동아리가 함께 만든 서비스로, 정부의 공적마�
 > 이윤서
 
 >성형주
-> * [[github]](https://github.com/hyungju) : hyungju</br>
+> * [[Git Hub]](https://github.com/hyungju) : hyungju</br>
 > * instagram : @samdasu._.evian</br>
 > * Email : lehyungju@gmail.com</br>
 
 > 박영민
-> * [[github]](https://github.com/Ppine) : ParkYoungMin</br>
+> * [[Git Hub]](https://github.com/Ppine) : ParkYoungMin</br>
 > * instagram : @parkyoungmin_pc</br>
 
 > 곽민준
